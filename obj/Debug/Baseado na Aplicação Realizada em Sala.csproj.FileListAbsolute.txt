@@ -1,0 +1,10 @@
+C:\Users\willi\source\repos\Baseado na Aplicação Realizada em Sala\bin\Debug\Baseado na Aplicação Realizada em Sala.exe.config
+C:\Users\willi\source\repos\Baseado na Aplicação Realizada em Sala\bin\Debug\Baseado na Aplicação Realizada em Sala.exe
+C:\Users\willi\source\repos\Baseado na Aplicação Realizada em Sala\bin\Debug\Baseado na Aplicação Realizada em Sala.pdb
+C:\Users\willi\source\repos\Baseado na Aplicação Realizada em Sala\obj\Debug\Baseado na Aplicação Realizada em Sala.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Baseado na Aplicação Realizada em Sala\obj\Debug\Baseado_na_Aplicação_Realizada_em_Sala.Form1.resources
+C:\Users\willi\source\repos\Baseado na Aplicação Realizada em Sala\obj\Debug\Baseado_na_Aplicação_Realizada_em_Sala.Properties.Resources.resources
+C:\Users\willi\source\repos\Baseado na Aplicação Realizada em Sala\obj\Debug\Baseado na Aplicação Realizada em Sala.csproj.GenerateResource.cache
+C:\Users\willi\source\repos\Baseado na Aplicação Realizada em Sala\obj\Debug\Baseado na Aplicação Realizada em Sala.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Baseado na Aplicação Realizada em Sala\obj\Debug\Baseado na Aplicação Realizada em Sala.exe
+C:\Users\willi\source\repos\Baseado na Aplicação Realizada em Sala\obj\Debug\Baseado na Aplicação Realizada em Sala.pdb
